@@ -13,4 +13,4 @@ All implemented algorythms and their features:
  - [ ] Decompression
 ##### LZ77
  - [ ] Compression
- - [¨] Decompression
+ - [ ] Decompression
